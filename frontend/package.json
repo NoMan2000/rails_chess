@@ -1,0 +1,9 @@
+{
+  "name": "rails_chess",
+  "version": "1.0.0",
+  "description": "A rails and React chess application",
+  "main": "index.js",
+  "repository": "git@github.com:NoMan2000/rails_chess.git",
+  "author": "NoMan2000",
+  "license": "MIT"
+}
